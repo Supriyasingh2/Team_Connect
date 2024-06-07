@@ -74,10 +74,10 @@ https://github.com/SreeHarsha-Kamisetty/TeamConnect/assets/102248292/d3babd88-62
 ## Installation & Getting Started
 1. Clone the repository:
    ```bash
-    git clone https://github.com/SreeHarsha-Kamisetty/TeamConnect.git 
+    https://github.com/Supriyasingh2/Team_Connect
 3. Navigate to the project directory:
     ```bash
-     cd your-project
+     cd Team_Connect
 5. Install dependencies:
    ```bash
     npm install
